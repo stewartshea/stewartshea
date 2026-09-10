@@ -24,4 +24,4 @@ jobs:
           MAX_LINES: 10
           COMMIT_NAME: github-actions[bot]
           COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
-          EVENT_FILTERS: PushEvent,CreateEvent,PullRequestEvent,IssuesEvent,ReleaseEvent
+          FILTER_EVENTS: PushEvent,CreateEvent,PullRequestEvent,IssuesEvent,ReleaseEvent
