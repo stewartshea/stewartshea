@@ -48,8 +48,8 @@ Maintained Canadian PoP sites. 24/7 second-level support. Started here. Learned 
 
 ## Recent Contributions
 
-<!-- RECENT-ACTIVITY:START -->
-<!-- RECENT-ACTIVITY:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ![OSS Contributions](https://oss-contribution-graph.vercel.app/api/graph?username=stewartshea&auto=true&months=12&exclude=stewartshea)
 

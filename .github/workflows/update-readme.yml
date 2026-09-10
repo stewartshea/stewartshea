@@ -2,8 +2,8 @@ name: Update Recent Activity
 
 on:
   schedule:
-    - cron: '0 8 * * *'   # daily at 8am UTC
-  workflow_dispatch:        # manual trigger
+    - cron: '0 8 * * *'
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -24,3 +24,4 @@ jobs:
           MAX_LINES: 10
           COMMIT_NAME: github-actions[bot]
           COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
+          EVENT_FILTERS: PushEvent,CreateEvent,PullRequestEvent,IssuesEvent,ReleaseEvent
