@@ -15,8 +15,9 @@ Based in Tiny, Ontario (yes, that's the real township name). Ships from a forest
 |---|---|---|
 | Systems that automate other systems | Platform architecture & strategy | Agentic ops & AI-assisted SRE |
 | Self-hosted deployment paths for regulated environments | Cloud migrations (AWS/GCP/Azure) | DevOps culture & team enablement |
-| GitOps pipelines (ArgoCD, Terraform) | Fractional platform leadership | Network automation (AnsibleFest) |
+| GitOps pipelines (ArgoCD, Terraform) | Fractional platform leadership | Conference talks & workshops |
 | AI-assisted engineering tools & MCP servers | Building systems that scale | Explaining tech so people use it |
+| | | Network automation |
 
 ---
 
@@ -39,9 +40,6 @@ Led a national team of solution architects. Designed and deployed infrastructure
 
 **British Telecom** — Technical Services Engineer · 2004–2005  
 Maintained Canadian PoP sites. 24/7 second-level support. Started here. Learned that everything breaks at 3am and nobody documents the fix.
-
-**Network Automation** — AnsibleFest Speaker  
-Applied infrastructure-as-code principles to carrier and enterprise network devices — automating router and switch configuration, firmware updates, and compliance at scale. Presented at AnsibleFest on network automation patterns and lessons from the field.
 
 ---
 
