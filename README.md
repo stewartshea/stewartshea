@@ -44,6 +44,8 @@ Maintained Canadian PoP sites. 24/7 second-level support. Started here. Learned 
 
 *I've used a lot of tools over 20+ years. Listing them here feels like a bingo card — and the ones I've forgotten would fill a second card. If you need to know whether I've worked with something specific, ask. The answer is probably yes, or I can be useful within a week.*
 
+Currently working with: Kubernetes (GKE), Terraform, Crossplane, FluxCD, GitHub Actions, Python, Go, GCP, Azure, Azure DevOps, AI Foundry, Vertex AI, OpenRouter, LiteLLM, Postgres, Redis/Valkey, Astro, Vercel, Mailgun, Auth0.
+
 ---
 
 ## Recent Contributions
@@ -79,5 +81,3 @@ These don't show up in the graph above — but they're most of the work.
 ## Connect
 
 [stewart.shea@gmail.com](mailto:stewart.shea@gmail.com) · [linkedin.com/in/sheastewart](https://linkedin.com/in/sheastewart) · [runwhen.com](https://runwhen.com)
-
-> *Trained in improv at Second City Toronto. Explains the commit messages. Also explains why I can debug your YAML indentation without being asked.*
