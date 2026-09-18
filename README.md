@@ -5,7 +5,7 @@ Cloud-native architecture, DevOps, automation — 20+ years owning production sy
 
 Keeping things running since the days when a "deployment" meant driving to a colo with a CD. Started on the network floor at British Telecom, moved through architecture and consulting, spent the last decade building cloud-native platforms for government and enterprise. Currently building [RunWhen](https://runwhen.com) — an AI automation platform that turns recurring engineering work into shared tasks agents can surface or run automatically.
 
-Based in Tiny, Ontario (yes, that's the real town name). Ships from a forest near Georgian Bay — among the trees is a nice place to be.
+Based in Tiny, Ontario (yes, that's the real township name). Ships from a forest near Georgian Bay — among the trees is a nice place to be.
 
 ---
 
@@ -15,7 +15,7 @@ Based in Tiny, Ontario (yes, that's the real town name). Ships from a forest nea
 |---|---|---|
 | Systems that automate other systems | Platform architecture & strategy | Agentic ops & AI-assisted SRE |
 | Self-hosted deployment paths for regulated environments | Cloud migrations (AWS/GCP/Azure) | DevOps culture & team enablement |
-| GitOps pipelines (ArgoCD, Terraform) | Fractional platform leadership | Conference talks & workshops |
+| GitOps pipelines (ArgoCD, Terraform) | Fractional platform leadership | Network automation (AnsibleFest) |
 | AI-assisted engineering tools & MCP servers | Building systems that scale | Explaining tech so people use it |
 
 ---
@@ -39,6 +39,9 @@ Led a national team of solution architects. Designed and deployed infrastructure
 
 **British Telecom** — Technical Services Engineer · 2004–2005  
 Maintained Canadian PoP sites. 24/7 second-level support. Started here. Learned that everything breaks at 3am and nobody documents the fix.
+
+**Network Automation** — AnsibleFest Speaker  
+Applied infrastructure-as-code principles to carrier and enterprise network devices — automating router and switch configuration, firmware updates, and compliance at scale. Presented at AnsibleFest on network automation patterns and lessons from the field.
 
 ---
 
@@ -80,6 +83,6 @@ These don't show up in the graph above — but they're most of the work.
 
 ## Connect
 
-[stewart.shea@gmail.com](mailto:stewart.shea@gmail.com) · [linkedin.com/in/sheastewart](https://linkedin.com/in/sheastewart) · [runwhen.com](https://runwhen.com)
+[stewart.shea@gmail.com](mailto:stewart.shea@gmail.com) · [linkedin.com/in/sheastewart](https://linkedin.com/in/sheastewart)
 
 > *Trained in improv at Second City Toronto. "Yes, and" turns out to be equally effective for platform architecture and production incidents.*
