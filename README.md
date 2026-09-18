@@ -81,3 +81,5 @@ These don't show up in the graph above — but they're most of the work.
 ## Connect
 
 [stewart.shea@gmail.com](mailto:stewart.shea@gmail.com) · [linkedin.com/in/sheastewart](https://linkedin.com/in/sheastewart) · [runwhen.com](https://runwhen.com)
+
+> *Trained in improv at Second City Toronto. "Yes, and" turns out to be equally effective for platform architecture and production incidents.*
