@@ -52,16 +52,16 @@ Currently working with: Kubernetes (GKE), Terraform, Crossplane, FluxCD, GitHub 
 ## Recent Contributions
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#22](https://github.com/stewartshea/nido/issues/22) in [stewartshea/nido](https://github.com/stewartshea/nido)
-2. ℹ️ Labeled issue [#22](https://github.com/stewartshea/nido/issues/22) in [stewartshea/nido](https://github.com/stewartshea/nido)
-3. ℹ️ Labeled issue [#22](https://github.com/stewartshea/nido/issues/22) in [stewartshea/nido](https://github.com/stewartshea/nido)
-4. ❗ Opened issue [#22](https://github.com/stewartshea/nido/issues/22) in [stewartshea/nido](https://github.com/stewartshea/nido)
-5. ℹ️ Labeled issue [#21](https://github.com/stewartshea/nido/issues/21) in [stewartshea/nido](https://github.com/stewartshea/nido)
-6. ℹ️ Labeled issue [#21](https://github.com/stewartshea/nido/issues/21) in [stewartshea/nido](https://github.com/stewartshea/nido)
-7. ℹ️ Labeled issue [#21](https://github.com/stewartshea/nido/issues/21) in [stewartshea/nido](https://github.com/stewartshea/nido)
-8. ❗ Opened issue [#21](https://github.com/stewartshea/nido/issues/21) in [stewartshea/nido](https://github.com/stewartshea/nido)
-9. ℹ️ Labeled issue [#20](https://github.com/stewartshea/nido/issues/20) in [stewartshea/nido](https://github.com/stewartshea/nido)
-10. ℹ️ Labeled issue [#20](https://github.com/stewartshea/nido/issues/20) in [stewartshea/nido](https://github.com/stewartshea/nido)
+1. ℹ️ Labeled issue [#20](https://github.com/stewartshea/nido/issues/20) in [stewartshea/nido](https://github.com/stewartshea/nido)
+2. ℹ️ Unlabeled issue [#20](https://github.com/stewartshea/nido/issues/20) in [stewartshea/nido](https://github.com/stewartshea/nido)
+3. 🔒 Closed issue [#20](https://github.com/stewartshea/nido/issues/20) in [stewartshea/nido](https://github.com/stewartshea/nido)
+4. ℹ️ Labeled issue [#22](https://github.com/stewartshea/nido/issues/22) in [stewartshea/nido](https://github.com/stewartshea/nido)
+5. ℹ️ Labeled issue [#22](https://github.com/stewartshea/nido/issues/22) in [stewartshea/nido](https://github.com/stewartshea/nido)
+6. ℹ️ Labeled issue [#22](https://github.com/stewartshea/nido/issues/22) in [stewartshea/nido](https://github.com/stewartshea/nido)
+7. ❗ Opened issue [#22](https://github.com/stewartshea/nido/issues/22) in [stewartshea/nido](https://github.com/stewartshea/nido)
+8. ℹ️ Labeled issue [#21](https://github.com/stewartshea/nido/issues/21) in [stewartshea/nido](https://github.com/stewartshea/nido)
+9. ℹ️ Labeled issue [#21](https://github.com/stewartshea/nido/issues/21) in [stewartshea/nido](https://github.com/stewartshea/nido)
+10. ℹ️ Labeled issue [#21](https://github.com/stewartshea/nido/issues/21) in [stewartshea/nido](https://github.com/stewartshea/nido)
 <!--END_SECTION:activity-->
 
 ![OSS Contributions](https://oss-contribution-graph.vercel.app/api/graph?username=stewartshea&auto=true&months=12&exclude=stewartshea)
