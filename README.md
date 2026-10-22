@@ -52,16 +52,16 @@ Currently working with: Kubernetes (GKE), Terraform, Crossplane, FluxCD, GitHub 
 ## Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/stewartshea/nido/pull/42) in [stewartshea/nido](https://github.com/stewartshea/nido)
-2. 💪 Opened PR [#41](https://github.com/stewartshea/nido/pull/41) in [stewartshea/nido](https://github.com/stewartshea/nido)
-3. ℹ️ Labeled issue [#40](https://github.com/stewartshea/nido/issues/40) in [stewartshea/nido](https://github.com/stewartshea/nido)
-4. ℹ️ Labeled issue [#40](https://github.com/stewartshea/nido/issues/40) in [stewartshea/nido](https://github.com/stewartshea/nido)
-5. ❗ Opened issue [#40](https://github.com/stewartshea/nido/issues/40) in [stewartshea/nido](https://github.com/stewartshea/nido)
-6. ❗ Opened issue [#39](https://github.com/stewartshea/nido/issues/39) in [stewartshea/nido](https://github.com/stewartshea/nido)
-7. 🎉 Merged PR [#38](https://github.com/stewartshea/nido/pull/38) in [stewartshea/nido](https://github.com/stewartshea/nido)
-8. 🔒 Closed issue [#37](https://github.com/stewartshea/nido/issues/37) in [stewartshea/nido](https://github.com/stewartshea/nido)
-9. 💪 Opened PR [#38](https://github.com/stewartshea/nido/pull/38) in [stewartshea/nido](https://github.com/stewartshea/nido)
-10. ❗ Opened issue [#37](https://github.com/stewartshea/nido/issues/37) in [stewartshea/nido](https://github.com/stewartshea/nido)
+1. 💪 Opened PR [#43](https://github.com/stewartshea/nido/pull/43) in [stewartshea/nido](https://github.com/stewartshea/nido)
+2. 🎉 Merged PR [#41](https://github.com/stewartshea/nido/pull/41) in [stewartshea/nido](https://github.com/stewartshea/nido)
+3. 🔒 Closed issue [#39](https://github.com/stewartshea/nido/issues/39) in [stewartshea/nido](https://github.com/stewartshea/nido)
+4. 💪 Opened PR [#42](https://github.com/stewartshea/nido/pull/42) in [stewartshea/nido](https://github.com/stewartshea/nido)
+5. 💪 Opened PR [#41](https://github.com/stewartshea/nido/pull/41) in [stewartshea/nido](https://github.com/stewartshea/nido)
+6. ℹ️ Labeled issue [#40](https://github.com/stewartshea/nido/issues/40) in [stewartshea/nido](https://github.com/stewartshea/nido)
+7. ℹ️ Labeled issue [#40](https://github.com/stewartshea/nido/issues/40) in [stewartshea/nido](https://github.com/stewartshea/nido)
+8. ❗ Opened issue [#40](https://github.com/stewartshea/nido/issues/40) in [stewartshea/nido](https://github.com/stewartshea/nido)
+9. ❗ Opened issue [#39](https://github.com/stewartshea/nido/issues/39) in [stewartshea/nido](https://github.com/stewartshea/nido)
+10. 🎉 Merged PR [#38](https://github.com/stewartshea/nido/pull/38) in [stewartshea/nido](https://github.com/stewartshea/nido)
 <!--END_SECTION:activity-->
 
 ![OSS Contributions](https://oss-contribution-graph.vercel.app/api/graph?username=stewartshea&auto=true&months=12&exclude=stewartshea)
