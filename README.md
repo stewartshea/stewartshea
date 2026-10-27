@@ -33,7 +33,7 @@ Helped design and build BC government's OpenShift and DevOps platforms. Reduced 
 Implemented systems supporting wait-time tracking. The kind of project where the payoff is a family getting through a hard week.
 
 **[Arctiq](https://www.arctiq.ca)** — Founding Partner · 2016–2021  
-Co-founded and grew a services-only consulting firm from 5 founders to 20+ people and ~$10M in revenue over five years. Led cloud migrations, Kubernetes/OpenShift platforms, and coached engineers on delivering client projects. Acquired by DynTek.
+Co-founded and grew a services-only consulting firm from 5 founders to 20+ people and ~$10M in annual revenue over five years. Led cloud migrations, Kubernetes/OpenShift platforms, and coached engineers on delivering client projects. Acquired by DynTek.
 
 **Scalar Decisions / CDW** — Solution Architect & Systems Engineer · 2012–2016  
 Led a national team of solution architects. Designed and deployed infrastructure, datacenter, and cloud architectures across Canada.
