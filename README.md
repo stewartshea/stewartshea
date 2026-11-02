@@ -52,16 +52,16 @@ Currently working with: Kubernetes (GKE), Terraform, Crossplane, FluxCD, GitHub 
 ## Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#81](https://github.com/stewartshea/nido/issues/81) in [stewartshea/nido](https://github.com/stewartshea/nido)
-2. 🎉 Merged PR [#82](https://github.com/stewartshea/nido/pull/82) in [stewartshea/nido](https://github.com/stewartshea/nido)
-3. 💪 Opened PR [#82](https://github.com/stewartshea/nido/pull/82) in [stewartshea/nido](https://github.com/stewartshea/nido)
-4. ❗ Opened issue [#81](https://github.com/stewartshea/nido/issues/81) in [stewartshea/nido](https://github.com/stewartshea/nido)
-5. 💪 Opened PR [#197](https://github.com/runwhen-contrib/codecollection-registry/pull/197) in [runwhen-contrib/codecollection-registry](https://github.com/runwhen-contrib/codecollection-registry)
-6. 💪 Opened PR [#865](https://github.com/runwhen-contrib/runwhen-local/pull/865) in [runwhen-contrib/runwhen-local](https://github.com/runwhen-contrib/runwhen-local)
-7. 🎉 Merged PR [#80](https://github.com/stewartshea/nido/pull/80) in [stewartshea/nido](https://github.com/stewartshea/nido)
-8. 💪 Opened PR [#80](https://github.com/stewartshea/nido/pull/80) in [stewartshea/nido](https://github.com/stewartshea/nido)
-9. 🔒 Closed issue [#65](https://github.com/stewartshea/nido/issues/65) in [stewartshea/nido](https://github.com/stewartshea/nido)
-10. 🔒 Closed issue [#74](https://github.com/stewartshea/nido/issues/74) in [stewartshea/nido](https://github.com/stewartshea/nido)
+1. 💪 Opened PR [#866](https://github.com/runwhen-contrib/runwhen-local/pull/866) in [runwhen-contrib/runwhen-local](https://github.com/runwhen-contrib/runwhen-local)
+2. 🎉 Merged PR [#197](https://github.com/runwhen-contrib/codecollection-registry/pull/197) in [runwhen-contrib/codecollection-registry](https://github.com/runwhen-contrib/codecollection-registry)
+3. 💪 Opened PR [#97](https://github.com/runwhen-contrib/helm-charts/pull/97) in [runwhen-contrib/helm-charts](https://github.com/runwhen-contrib/helm-charts)
+4. 🔒 Closed issue [#81](https://github.com/stewartshea/nido/issues/81) in [stewartshea/nido](https://github.com/stewartshea/nido)
+5. 🎉 Merged PR [#82](https://github.com/stewartshea/nido/pull/82) in [stewartshea/nido](https://github.com/stewartshea/nido)
+6. 💪 Opened PR [#82](https://github.com/stewartshea/nido/pull/82) in [stewartshea/nido](https://github.com/stewartshea/nido)
+7. ❗ Opened issue [#81](https://github.com/stewartshea/nido/issues/81) in [stewartshea/nido](https://github.com/stewartshea/nido)
+8. 💪 Opened PR [#197](https://github.com/runwhen-contrib/codecollection-registry/pull/197) in [runwhen-contrib/codecollection-registry](https://github.com/runwhen-contrib/codecollection-registry)
+9. 💪 Opened PR [#865](https://github.com/runwhen-contrib/runwhen-local/pull/865) in [runwhen-contrib/runwhen-local](https://github.com/runwhen-contrib/runwhen-local)
+10. 🎉 Merged PR [#80](https://github.com/stewartshea/nido/pull/80) in [stewartshea/nido](https://github.com/stewartshea/nido)
 <!--END_SECTION:activity-->
 
 ![OSS Contributions](https://oss-contribution-graph.vercel.app/api/graph?username=stewartshea&auto=true&months=12&exclude=stewartshea)
