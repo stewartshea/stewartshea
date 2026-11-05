@@ -52,16 +52,16 @@ Currently working with: Kubernetes (GKE), Terraform, Crossplane, FluxCD, GitHub 
 ## Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/stewartshea/nido/pull/89) in [stewartshea/nido](https://github.com/stewartshea/nido)
-2. 💪 Opened PR [#89](https://github.com/stewartshea/nido/pull/89) in [stewartshea/nido](https://github.com/stewartshea/nido)
-3. 🎉 Merged PR [#9](https://github.com/runwhen-contrib/rw-core-keywords/pull/9) in [runwhen-contrib/rw-core-keywords](https://github.com/runwhen-contrib/rw-core-keywords)
-4. 💪 Opened PR [#9](https://github.com/runwhen-contrib/rw-core-keywords/pull/9) in [runwhen-contrib/rw-core-keywords](https://github.com/runwhen-contrib/rw-core-keywords)
-5. 🔒 Closed issue [#87](https://github.com/stewartshea/nido/issues/87) in [stewartshea/nido](https://github.com/stewartshea/nido)
-6. 🎉 Merged PR [#88](https://github.com/stewartshea/nido/pull/88) in [stewartshea/nido](https://github.com/stewartshea/nido)
-7. 🔒 Closed issue [#86](https://github.com/stewartshea/nido/issues/86) in [stewartshea/nido](https://github.com/stewartshea/nido)
-8. 🎉 Merged PR [#85](https://github.com/stewartshea/nido/pull/85) in [stewartshea/nido](https://github.com/stewartshea/nido)
-9. 🔒 Closed issue [#84](https://github.com/stewartshea/nido/issues/84) in [stewartshea/nido](https://github.com/stewartshea/nido)
-10. 💪 Opened PR [#88](https://github.com/stewartshea/nido/pull/88) in [stewartshea/nido](https://github.com/stewartshea/nido)
+1. 🚀 Published release [2026-11-04.2](https://github.com/runwhen-contrib/rw-core-keywords/releases/tag/2026-11-04.2) in [runwhen-contrib/rw-core-keywords](https://github.com/runwhen-contrib/rw-core-keywords)
+2. 🎉 Merged PR [#11](https://github.com/runwhen-contrib/rw-core-keywords/pull/11) in [runwhen-contrib/rw-core-keywords](https://github.com/runwhen-contrib/rw-core-keywords)
+3. 💪 Opened PR [#11](https://github.com/runwhen-contrib/rw-core-keywords/pull/11) in [runwhen-contrib/rw-core-keywords](https://github.com/runwhen-contrib/rw-core-keywords)
+4. 🚀 Published release [2026-11-04.1](https://github.com/runwhen-contrib/rw-core-keywords/releases/tag/2026-11-04.1) in [runwhen-contrib/rw-core-keywords](https://github.com/runwhen-contrib/rw-core-keywords)
+5. 🎉 Merged PR [#10](https://github.com/runwhen-contrib/rw-core-keywords/pull/10) in [runwhen-contrib/rw-core-keywords](https://github.com/runwhen-contrib/rw-core-keywords)
+6. 💪 Opened PR [#10](https://github.com/runwhen-contrib/rw-core-keywords/pull/10) in [runwhen-contrib/rw-core-keywords](https://github.com/runwhen-contrib/rw-core-keywords)
+7. 🎉 Merged PR [#89](https://github.com/stewartshea/nido/pull/89) in [stewartshea/nido](https://github.com/stewartshea/nido)
+8. 💪 Opened PR [#89](https://github.com/stewartshea/nido/pull/89) in [stewartshea/nido](https://github.com/stewartshea/nido)
+9. 🎉 Merged PR [#9](https://github.com/runwhen-contrib/rw-core-keywords/pull/9) in [runwhen-contrib/rw-core-keywords](https://github.com/runwhen-contrib/rw-core-keywords)
+10. 💪 Opened PR [#9](https://github.com/runwhen-contrib/rw-core-keywords/pull/9) in [runwhen-contrib/rw-core-keywords](https://github.com/runwhen-contrib/rw-core-keywords)
 <!--END_SECTION:activity-->
 
 ![OSS Contributions](https://oss-contribution-graph.vercel.app/api/graph?username=stewartshea&auto=true&months=12&exclude=stewartshea)
