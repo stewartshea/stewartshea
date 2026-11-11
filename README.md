@@ -52,16 +52,16 @@ Currently working with: Kubernetes (GKE), Terraform, Crossplane, FluxCD, GitHub 
 ## Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/runwhen-contrib/runwhen-plugins/pull/48) in [runwhen-contrib/runwhen-plugins](https://github.com/runwhen-contrib/runwhen-plugins)
-2. 💪 Opened PR [#49](https://github.com/runwhen-contrib/runwhen-capability/pull/49) in [runwhen-contrib/runwhen-capability](https://github.com/runwhen-contrib/runwhen-capability)
-3. 🎉 Merged PR [#48](https://github.com/runwhen-contrib/runwhen-capability/pull/48) in [runwhen-contrib/runwhen-capability](https://github.com/runwhen-contrib/runwhen-capability)
-4. 💪 Opened PR [#48](https://github.com/runwhen-contrib/runwhen-capability/pull/48) in [runwhen-contrib/runwhen-capability](https://github.com/runwhen-contrib/runwhen-capability)
-5. 🎉 Merged PR [#101](https://github.com/runwhen-contrib/helm-charts/pull/101) in [runwhen-contrib/helm-charts](https://github.com/runwhen-contrib/helm-charts)
-6. 💪 Opened PR [#101](https://github.com/runwhen-contrib/helm-charts/pull/101) in [runwhen-contrib/helm-charts](https://github.com/runwhen-contrib/helm-charts)
-7. 🎉 Merged PR [#100](https://github.com/runwhen-contrib/helm-charts/pull/100) in [runwhen-contrib/helm-charts](https://github.com/runwhen-contrib/helm-charts)
-8. 🎉 Merged PR [#96](https://github.com/stewartshea/nido/pull/96) in [stewartshea/nido](https://github.com/stewartshea/nido)
-9. 💪 Opened PR [#96](https://github.com/stewartshea/nido/pull/96) in [stewartshea/nido](https://github.com/stewartshea/nido)
-10. 💪 Opened PR [#100](https://github.com/runwhen-contrib/helm-charts/pull/100) in [runwhen-contrib/helm-charts](https://github.com/runwhen-contrib/helm-charts)
+1. 🎉 Merged PR [#97](https://github.com/stewartshea/nido/pull/97) in [stewartshea/nido](https://github.com/stewartshea/nido)
+2. 💪 Opened PR [#97](https://github.com/stewartshea/nido/pull/97) in [stewartshea/nido](https://github.com/stewartshea/nido)
+3. 🎉 Merged PR [#48](https://github.com/runwhen-contrib/runwhen-plugins/pull/48) in [runwhen-contrib/runwhen-plugins](https://github.com/runwhen-contrib/runwhen-plugins)
+4. 💪 Opened PR [#49](https://github.com/runwhen-contrib/runwhen-capability/pull/49) in [runwhen-contrib/runwhen-capability](https://github.com/runwhen-contrib/runwhen-capability)
+5. 🎉 Merged PR [#48](https://github.com/runwhen-contrib/runwhen-capability/pull/48) in [runwhen-contrib/runwhen-capability](https://github.com/runwhen-contrib/runwhen-capability)
+6. 💪 Opened PR [#48](https://github.com/runwhen-contrib/runwhen-capability/pull/48) in [runwhen-contrib/runwhen-capability](https://github.com/runwhen-contrib/runwhen-capability)
+7. 🎉 Merged PR [#101](https://github.com/runwhen-contrib/helm-charts/pull/101) in [runwhen-contrib/helm-charts](https://github.com/runwhen-contrib/helm-charts)
+8. 💪 Opened PR [#101](https://github.com/runwhen-contrib/helm-charts/pull/101) in [runwhen-contrib/helm-charts](https://github.com/runwhen-contrib/helm-charts)
+9. 🎉 Merged PR [#100](https://github.com/runwhen-contrib/helm-charts/pull/100) in [runwhen-contrib/helm-charts](https://github.com/runwhen-contrib/helm-charts)
+10. 🎉 Merged PR [#96](https://github.com/stewartshea/nido/pull/96) in [stewartshea/nido](https://github.com/stewartshea/nido)
 <!--END_SECTION:activity-->
 
 ![OSS Contributions](https://oss-contribution-graph.vercel.app/api/graph?username=stewartshea&auto=true&months=12&exclude=stewartshea)
